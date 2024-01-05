@@ -1,0 +1,17 @@
+C:\Users\vicen\serve\conApi\bin\Debug\net8.0\conApi.exe
+C:\Users\vicen\serve\conApi\bin\Debug\net8.0\conApi.deps.json
+C:\Users\vicen\serve\conApi\bin\Debug\net8.0\conApi.runtimeconfig.json
+C:\Users\vicen\serve\conApi\bin\Debug\net8.0\conApi.dll
+C:\Users\vicen\serve\conApi\bin\Debug\net8.0\conApi.pdb
+C:\Users\vicen\serve\conApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.csproj.AssemblyReference.cache
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.AssemblyInfoInputs.cache
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.AssemblyInfo.cs
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.csproj.CoreCompileInputs.cache
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.csproj.CopyComplete
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.dll
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\refint\conApi.dll
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.pdb
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\conApi.genruntimeconfig.cache
+C:\Users\vicen\serve\conApi\obj\Debug\net8.0\ref\conApi.dll
